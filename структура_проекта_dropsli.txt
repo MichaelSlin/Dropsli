@@ -1,0 +1,28 @@
+DROPSLI/
+├── __pycache__
+├── main.py
+├── dropsli_app.py
+├── help_window.py
+├── processing/
+│   ├── __pycache__
+│   ├── module_process_frame.py
+│   ├── module_excel_gui.py
+│   └── module_parameters.py
+├── tabs/
+│   ├── __pycache__
+│   ├── __init__.py
+│   ├── roi_manager.py
+│   ├── tab_new_project.py
+│   ├── tab_exp_param.py
+│   ├── tab_data.py
+│   └── tab_diagrams.py
+├── i18n/
+│   ├── __pycache__
+│   ├── __init__.py
+│   ├── check_translations.py
+│   └── i18n.py
+└── assets/
+    ├── droplet.png
+    └── dropsli_icon.ico
+   
+
